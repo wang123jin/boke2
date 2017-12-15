@@ -1,0 +1,145 @@
+$width:100%;
+$height:0.5rem;
+$background:red;
+
+header{
+  width:$width;
+  height:$height;
+    background:$background;
+}
+
+.boKe{
+  width:4.5rem;
+  float:left;
+  margin-top:1.1rem;
+  margin-left:5.1rem;
+  color:#fff;
+}
+header a{
+  color:white;
+  text-decoration:none;
+}
+.tuPian{
+  float:right;
+  margin-top:1.1rem;
+  margin-right:4.15rem;
+  color:#fff;
+}
+section{
+  width:100%;
+  height:6rem;
+  //background:#d14d79;
+ /* border-bottom:1px solid #000;
+  border-top:1px solid #000;*/
+  //overflow:hidden;
+}
+.box-left{
+  width:70%;
+  height:4rem;
+  //background:#00bcd4;
+  float:left;
+  margin-top:1rem;
+  overflow:hidden;
+  text-indent:2rem;
+}
+.box-right{
+  width:30%;
+  height:4rem;
+  //background:yellow;
+  float:right;
+  margin-top:1rem;
+}
+.box-right img{
+  width:100%;
+  height:100%;
+  display:block;
+}
+.he{
+  width:100%;
+  height:4rem;
+  //background:blue;
+  overflow: hidden;
+  position:relative;
+}
+.touXiang{
+  width:3rem;
+  height:3rem;
+  background:yellow;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+  border-radius: 50%;
+}
+section1 .touXiang img{
+  width:100%;
+  height:100%;
+  display:block;
+  border-radius: 50%;
+}
+section1 .he .name{
+  width:5rem;
+  position:absolute;
+  top: 9px;
+  left: 78px;
+}
+section1 .he .time{
+  width:5rem;
+  position:absolute;
+  top: 32px;
+  left: 78px;
+  font-size:12px;
+}
+h1{
+ margin-left:3rem;
+}
+.duiXiang{
+  width:100%;
+}
+.neiRong{
+  width:98%;
+  text-indent: 18px;
+  margin-left: 9px;
+}
+.pian img{
+  width:100%;
+  height:100%;
+  display:block;
+}
+.pian{
+  width:98%;
+  margin-left: 3px;
+  margin-top: 11px;
+
+}
+.oneTu img{
+  width:100%;
+  height:100%;
+  display:block;
+}
+.oneTu{
+  width: 96%;
+  height: 9rem;
+  margin-left: 6px;
+  margin-top: 10px;
+}
+.twoTu{
+  width: 96%;
+  height: 9rem;
+  margin-left: 6px;
+  margin-top: 6px;
+}
+.twoTu img{
+  width:100%;
+  height:100%;
+  display:block;
+}
+h{
+  margin-left:5px;
+}
+h3{
+  margin-left:55px;
+}
+.twozi{
+  width:98%;
+  margin-left: 6px;
+}
+
